@@ -1,4 +1,4 @@
-# KafaConsumerProduction
+# KafaConsumerProducer
 
 Kafka Golang Example
 
